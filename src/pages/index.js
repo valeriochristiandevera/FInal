@@ -1,0 +1,11 @@
+export { default as Sidebar } from "../components/Sidebar";
+export { default as Feed } from "../pages/Feed";
+export { default as ChannelDetails } from "../pages/ChannelDetails";
+export { default as SearchFeed } from "../pages/SearchFeed";
+export { default as VideoDetails } from "../pages/VideoDetails";
+export { default as History } from "../components/History";
+export { default as Login } from "./Login";
+export { default as Register } from "./Register";
+export { default as Profile } from "./Profile";
+export { default as Settings } from "./Settings";
+export { default as Upload } from "./Upload";
